@@ -1,4 +1,5 @@
  Le volume dans le lecteur D s'appelle STOCK
+
  Le num‚ro de s‚rie du volume est D87B-E3F8
 
  R‚pertoire de D:\SIEMENS\STEP7\Projets_S7\TestGit
@@ -8,3 +9,5 @@
 27/11/2022  18:16                 0 test1.txt
                1 fichier(s)                0 octets
                2 R‚p(s)  101ÿ963ÿ362ÿ304 octets libres
+
+# toto est toujours aussi grand parait-il
