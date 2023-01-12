@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DeploymentView>
+  <DVNodeType Location="0 0" IndexName="Node61321673" Type="CategoryStation" MyWidth="200" Name="WorkStation" DataTemplate="Workstation" />
+  <DVNodeType Location="0 360" IndexName="9044118d-08a9-4610-9f0a-196090284191" Type="CategoryDevice" MyWidth="200" Name="TestGitHubRepo.Device1" />
+  <DVNodeType Location="50 237.69230769230768" IndexName="Node60043634" Type="CategoryNetwork" MyWidth="475.38461538461536" Name="ETCP1" MyColor="Green" DataTemplate="Network" />
+  <DVDeviceLinkData From="9044118d-08a9-4610-9f0a-196090284191" To="Node60043634" ToSpotX="0.084142394822006472" />
+  <DVDeviceLinkData From="Node61321673" To="Node60043634" ToSpotX="0.084142394822006472" />
+</DeploymentView>

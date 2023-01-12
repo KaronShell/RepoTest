@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resource FileVersion="200.00.005" Name="Cis7_GitRepoTest" ResourceNb="1" ElementGuid="f3656f63-ea32-4234-b56b-9c068c576ad0" Address="@1" Comment="Resources 1" SingleTextLine="Resource Number 1" GenDebugInfo="false" Password="" ReadOnly="false" UsePrjPassword="false" Code="TicCode">
+  <Properties Test="true" TrigCycle="false" CyTiming="0" DeErrors="true" NbStErrors="16" ExecMode="true" EmbedTable="false" TypeEmbedTable="1" EmbedSource="false" TypeEmbedSource="2" SimulationCode="true" SfcGain="8" SfcOffset="18" EmbeddedSfc="false" ReadableImage="false" RealImage="false" LocExp="false" unlab="false" AriOpe="false" BooOpe="false" BooExp="false" GloExp="false" VarCpy="false" Uncod="false" MapFile="false" DumpPou="false" DumpConfig="false" DumpNetwork="false" CompileIncrementally="true" LinkIncrementally="true" CheckArray="false" ArrStr="false" OnlineMemory="32000" OnlineMemoryVariable="2048" FunctionInternalStateEnable="true" FbdBehaviorMode="1" OnlineMaxExtraPous="20" IsDisableAccessFBLocalVar="true" EnableCVT="false" MemRetain="RETAIN" ReduceBooleanExpressionEvaluation="false" IsIndirectBitAccessValidation="true" CyUsTiming="0" OnlineMemorySfc="4096" LdBranchStackTemporaryVariableCreationEnable="true" />
+  <Pous>
+    <Program Name="InitK" ElementGuid="da3aaece-e700-4c86-ba24-0020708e2db2" Language="ST" CustomFbd="0" Is1499="false" />
+  </Pous>
+  <GlobalVars />
+  <ExportedGroups />
+  <ImportedGroups />
+  <Groups />
+  <Devices />
+  <NetworkParameterValues>
+    <NetworkParameterValue NetworkName="HSD" Name="ValidityTime" Value="0" />
+    <NetworkParameterValue NetworkName="ETCP" Name="TimeOut" Value="10000" />
+  </NetworkParameterValues>
+</Resource>
